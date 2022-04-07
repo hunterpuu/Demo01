@@ -37,6 +37,7 @@ Result
 ![Result](https://user-images.githubusercontent.com/82997996/162128264-95136a06-fc06-4107-818c-1d652b032039.JPG)
 
 Summary
+
 ปกติแล้วถ้าเราใช้ Visual Studio 2019 การ Build จะเป้น backgroud ตาม Step ที่เราได้ทำ และเมื่อสั่ง Publish ก็จะเป้นหน้า GUI ให้เรา Publish code ออกไปวาง ซึงถ้าเป็น CI/CD tools ที่เป็น open source เราจะต้องเขียน step เองแล้วเอา CMD จากด้านบนไปใส่ใน CI/CD process ก็จะได้เป็นผลลัพธ์แบบเดียวกับ manual ที่เราทำ เช่นเดียวกันถ้าเราไม่มี Visual Studio แล้วเราอยากพัฒนา Project .Net Core เราสามารถใช้ VS Code + SDK .Net Core ในการพัฒนาได้ครับ
 
 Refer Dotnet Command --> https://docs.microsoft.com/en-us/dotnet/core/tools/
