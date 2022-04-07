@@ -4,3 +4,5 @@ Code ชุดนี้ถูกสร้างจาก Visual Studio 2019 เ�
 2. Dotnet Build -> https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-build
 3. Dotnet Test -> https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-test
 4. Dotnet Publish -> https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-publish
+
+![Result](https://user-images.githubusercontent.com/82997996/162128264-95136a06-fc06-4107-818c-1d652b032039.JPG)
